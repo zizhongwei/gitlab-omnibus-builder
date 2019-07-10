@@ -1,1 +1,1 @@
-FROM registry.gitlab.com/gitlab-org/gitlab-omnibus-builder/ubuntu_16.04:builder-latest
+FROM registry.gitlab.com/gitlab-org/gitlab-omnibus-builder/debian_packer:latest
